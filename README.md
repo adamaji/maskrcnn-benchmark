@@ -1,3 +1,7 @@
+## Edits
+
+The `simple_clothes` branch adds support for a toy dataset on clothing detection and some small visualization tweaks for a related project.
+
 # Faster R-CNN and Mask R-CNN in PyTorch 1.0
 
 This project aims at providing the necessary building blocks for easily
